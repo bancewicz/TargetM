@@ -1,0 +1,29 @@
+// TargetM.idl : источник библиотеки типов для TargetM.exe
+
+// Этот файл будет обработан компилятором MIDL для создания
+// библиотеки типов (TargetM.tlb).
+
+[ uuid(4B66B702-CDF6-4E20-BC96-1A94FB5EB045), version(1.0) ]
+library TargetM
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  Первичный интерфейс диспетчеризации для CTargetMDoc
+	
+	[ uuid(5B753AAF-3787-4CE8-9B7E-702C3C22DDE7) ]
+	dispinterface ITargetM
+	{
+		properties:
+			
+		methods:
+	};
+
+	//  Информация о классе для CTargetMDoc
+	
+	[ uuid(AD700F4B-8CFB-4FAB-9F44-DCE4640C7B9E) ]
+	coclass TargetM
+	{
+		[default] dispinterface ITargetM;
+	};
+};

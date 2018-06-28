@@ -1,0 +1,17 @@
+REGEDIT
+; Возможно, этот файл .REG используется программой установки.
+;   Если программа SETUP недоступна, записи, расположенные ниже, будут зарегистрированы
+;   в InitInstance автоматически с вызовом в
+;   CWinApp::RegisterShellFileTypes и COleObjectFactory::UpdateRegistryAll.
+
+
+HKEY_CLASSES_ROOT\TargetM.Application = TargetM Application
+
+
+HKEY_CLASSES_ROOT\TargetM.Application\CLSID = {AD700F4B-8CFB-4FAB-9F44-DCE4640C7B9E}
+
+HKEY_CLASSES_ROOT\CLSID\{AD700F4B-8CFB-4FAB-9F44-DCE4640C7B9E} = TargetM Application
+HKEY_CLASSES_ROOT\CLSID\{AD700F4B-8CFB-4FAB-9F44-DCE4640C7B9E}\ProgId = TargetM.Application
+
+
+HKEY_CLASSES_ROOT\CLSID\{AD700F4B-8CFB-4FAB-9F44-DCE4640C7B9E}\LocalServer32 = TargetM.EXE
