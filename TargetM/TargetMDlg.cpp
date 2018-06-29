@@ -79,7 +79,8 @@ int TARGETSCALE[]={
 
 BOOL READPROCFLAG=FALSE;
 
-CString m_VERSION(" v.1.0.21");
+//Версияпродукта пишем сюда
+CString m_VERSION(" v.1.0.22");
 
 BOOL bgraph=FALSE;
 
@@ -688,6 +689,10 @@ m_Target.TARGON=&TARGON;
 
 	//this->m_CONSOLEC_Edit.ShowWindow(SW_SHOW);
 	//this->m_CONSOLER_Edit.ShowWindow(SW_SHOW);
+
+	CFlashScreenDlg dlg;
+	dlg.DoModal();
+
 
 	SetTimer(30,10,NULL);
 

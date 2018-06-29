@@ -1,236 +1,57 @@
-D:\TARGET2\VS2010\TARGETM\DEBUG\TARGETM.EXE
-D:\TARGET2\VS2010\TARGETM\DEBUG\TARGETM.ILK
-D:\TARGET2\VS2010\TARGETM\DEBUG\TARGETM.PDB
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\DLGPROXY.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\GRAPH.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\INIFILEMANAGER.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\LINE.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\MYEDIT.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\PRINTLISTCTRL.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\REPORTDLG.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\SERIAL.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\SERIALLIGHT.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\SHOTREPORT.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\STDAFX.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.EXE.EMBED.MANIFEST
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.EXE.EMBED.MANIFEST.RES
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.EXE.INTERMEDIATE.MANIFEST
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.PCH
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.RES
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.TLB
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETMDLG.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TARGETV.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\TESTPARDLG.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\VC100.PDB
-D:\TARGET2\VS2010\TARGETM\TARGETM\DEBUG\XSHADEBUTTON.OBJ
-D:\TARGET2\VS2010\TARGETM\TARGETM\TARGETM_H.H
-D:\TARGET2\VS2010\TARGETM\TARGETM\TARGETM_I.C
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\DEBUG\TARGETM.EXE
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\DEBUG\TARGETM.ILK
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\DEBUG\TARGETM.PDB
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\cl.command.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\CL.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\CL.write.1.tlog
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\DLGPROXY.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\GRAPH.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\INIFILEMANAGER.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\LINE.OBJ
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10032.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10032.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10032-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10032-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10304.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10304.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10304-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10304-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10572.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10572.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10572-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10572-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10600.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10600.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10600-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10600-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10700.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10700.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10700-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10700-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10852.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10852.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10852-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10852-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10920.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10920.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10920-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10920-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10968.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10968.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10968-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.10968-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11012.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11012.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11012-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11012-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11516.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11516.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11516-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11516-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11532.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11532.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11532-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.11532-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.12044.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.12044.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.12044-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.12044-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13064.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13064.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13064-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13064-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13784.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13784.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13784-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.13784-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.1460.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.1460.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.1460-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.1460-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2616.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2616.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2616-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2616-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2780.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2780.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2780-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2780-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2888.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2888.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2888-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.2888-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4116.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4116.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4116-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4116-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4804.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4804.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4804-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.4804-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5196.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5196.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5196-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5196-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5744.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5744.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5744-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.5744-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6304.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6304.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6304-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6304-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6496.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6496.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6496-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6496-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6944.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6944.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6944-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.6944-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7084.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7084.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7084-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7084-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7124.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7124.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7124-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7124-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7180.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7180.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7180-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7180-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7476.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7476.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7476-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.7476-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8000.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8000.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8000-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8000-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8200.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8200.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8200-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8200-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8236.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8236.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8236-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8236-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8728.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8728.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8728-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8728-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8928.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8928.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8928-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.8928-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9236.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9236.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9236-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9236-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.924.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.924.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.924-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.924-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9440.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9440.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9440-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9440-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9716.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9716.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9716-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9716-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9840.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9840.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9840-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.9840-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.command.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link-cvtres.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\link-cvtres.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl.command.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl-midlc.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl-midlc.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\midl-midlc-cl.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\mt.command.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\mt.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\mt.write.1.tlog
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\MYEDIT.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\PRINTLISTCTRL.OBJ
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\rc.command.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\rc.read.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\rc.write.1.tlog
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\REPORTDLG.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\SERIAL.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\SERIALLIGHT.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\SHOTREPORT.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\STDAFX.OBJ
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\TargetM.exe.embed.manifest
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.EXE.EMBED.MANIFEST.RES
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.EXE.INTERMEDIATE.MANIFEST
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.PCH
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.RES
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETM.TLB
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\TargetM.vcxprojResolveAssemblyReference.cache
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\TargetM.write.1.tlog
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\TargetM_manifest.rc
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETMDLG.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TARGETV.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\TESTPARDLG.OBJ
-E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\Debug\vc100.idb
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\VC100.PDB
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\DEBUG\XSHADEBUTTON.OBJ
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\TARGETM_H.H
-E:\IMSK\MSVISUALC++\TARGETM\VS2010\TARGETM\TARGETM\TARGETM_I.C
+E:\IMSK\PRJ MSVISUALC++\TARGETM\DEBUG\TARGETM.EXE
+E:\IMSK\PRJ MSVISUALC++\TARGETM\DEBUG\TARGETM.ILK
+E:\IMSK\PRJ MSVISUALC++\TARGETM\DEBUG\TARGETM.PDB
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\cl.command.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\CL.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\CL.write.1.tlog
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\DLGPROXY.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\FLASHSCREENDLG.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\GRAPH.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\INIFILEMANAGER.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\LINE.OBJ
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.13548.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.13548.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.13548-cvtres.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.13548-cvtres.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.command.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link-cvtres.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\link-cvtres.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl.command.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl-midlc.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl-midlc.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\midl-midlc-cl.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\mt.command.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\mt.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\mt.write.1.tlog
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\MYEDIT.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\PRINTLISTCTRL.OBJ
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\rc.command.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\rc.read.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\rc.write.1.tlog
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\REPORTDLG.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\SERIAL.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\SERIALLIGHT.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\SHOTREPORT.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\STDAFX.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.EXE.EMBED.MANIFEST
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.EXE.EMBED.MANIFEST.RES
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.EXE.INTERMEDIATE.MANIFEST
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.PCH
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.RES
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETM.TLB
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\TargetM.vcxprojResolveAssemblyReference.cache
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\TargetM.write.1.tlog
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\TargetM_manifest.rc
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETMDLG.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TARGETV.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\TESTPARDLG.OBJ
+E:\IMSK\prj MSVisualC++\TargetM\TargetM\Debug\vc100.idb
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\VC100.PDB
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\DEBUG\XSHADEBUTTON.OBJ
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\TARGETM_H.H
+E:\IMSK\PRJ MSVISUALC++\TARGETM\TARGETM\TARGETM_I.C

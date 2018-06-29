@@ -1,87 +1,178 @@
-﻿Построение начато 22.06.2018 15:04:45.
-     1>Проект "E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\TargetM.vcxproj" в узле 2 (целевые объекты build).
-     1>InitializeBuildStatus:
+﻿Построение начато 28.06.2018 16:01:33.
+     1>Проект "E:\IMSK\prj MSVisualC++\TargetM\TargetM\TargetM.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Release\TargetM.lastbuildstate" удаляется.
+       InitializeBuildStatus:
          Создание "Release\TargetM.unsuccessfulbuild", так как было задано "AlwaysCreate".
        Midl:
-         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\midl.exe /D NDEBUG /W1 /nologo /char signed /env win32 /h "TargetM_h.h" /tlb "Release\TargetM.tlb" /robust TargetM.idl 
+         Processing .\TargetM.idl
+         TargetM.idl
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\oaidl.idl
+         oaidl.idl
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\objidl.idl
+         objidl.idl
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\unknwn.idl
+         unknwn.idl
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\wtypes.idl
+         wtypes.idl
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\basetsd.h
+         basetsd.h
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\guiddef.h
+         guiddef.h
+         Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\oaidl.acf
+         oaidl.acf
        ClCompile:
-         Для всех выходных данных обновления не требуется.
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\TargetM.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TargetMDlg.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\TargetM.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\TargetM.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DlgProxy.cpp FlashScreenDlg.cpp Graph.cpp IniFileManager\IniFileManager.cpp Line.cpp MyEdit.cpp PrintListCtrl.cpp ReportDlg.cpp Serial.cpp SerialLight.cpp ShotReport.cpp TargetM.cpp TargetMDlg.cpp TargetV.cpp TestParDlg.cpp xShadeButton.cpp
+         DlgProxy.cpp
+         FlashScreenDlg.cpp
+         Graph.cpp
+         IniFileManager.cpp
+     1>IniFileManager\IniFileManager.cpp(25): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276): см. объявление "wcscat"
+     1>IniFileManager\IniFileManager.cpp(26): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276): см. объявление "wcscat"
+     1>IniFileManager\IniFileManager.cpp(27): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(276): см. объявление "wcscat"
+     1>IniFileManager\IniFileManager.cpp(103): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(797): см. объявление "swscanf"
+         Line.cpp
+     1>Line.cpp(23): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(24): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(26): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(27): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(86): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(87): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(89): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>Line.cpp(90): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         MyEdit.cpp
+         PrintListCtrl.cpp
+     1>PrintListCtrl.cpp(90): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(283): см. объявление "wcscpy"
+         ReportDlg.cpp
+         Serial.cpp
+     1>Serial.cpp(26): warning C4005: STRICT: изменение макроопределения
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxv_w32.h(21): см. предыдущее определение "STRICT"
+     1>Serial.cpp(1639): warning C4101: keyName: неиспользованная локальная переменная
+     1>Serial.cpp(1723): warning C4244: =: преобразование "long" в "BYTE", возможна потеря данных
+         SerialLight.cpp
+     1>SerialLight.cpp(122): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>SerialLight.cpp(111): warning C4101: d2: неиспользованная локальная переменная
+     1>SerialLight.cpp(111): warning C4101: d1: неиспользованная локальная переменная
+     1>SerialLight.cpp(145): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>SerialLight.cpp(175): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>SerialLight.cpp(196): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>SerialLight.cpp(350): warning C4101: keyName: неиспользованная локальная переменная
+         ShotReport.cpp
+         TargetM.cpp
          TargetMDlg.cpp
      1>TargetMDlg.cpp(677): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
-     1>TargetMDlg.cpp(838): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1044): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
-     1>TargetMDlg.cpp(1175): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1184): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1279): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1408): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1409): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1410): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1411): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1499): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1539): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1583): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1622): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(842): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1048): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetMDlg.cpp(1179): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1188): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1283): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1412): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1413): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1414): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1415): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1503): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1543): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1587): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
      1>TargetMDlg.cpp(1626): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
      1>TargetMDlg.cpp(1630): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
      1>TargetMDlg.cpp(1634): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
      1>TargetMDlg.cpp(1638): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
-     1>TargetMDlg.cpp(1952): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+     1>TargetMDlg.cpp(1642): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetMDlg.cpp(1956): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85): см. объявление "swprintf"
-     1>TargetMDlg.cpp(2081): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+     1>TargetMDlg.cpp(2085): warning C4996: 'swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\swprintf.inl(85): см. объявление "swprintf"
-     1>TargetMDlg.cpp(2332): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2336): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\wchar.h(815): см. объявление "_wfopen"
-     1>TargetMDlg.cpp(2348): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2354): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2358): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2374): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2379): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2383): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2382): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2386): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2402): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2406): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2409): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2412): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2435): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2439): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2450): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2454): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2459): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2463): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2465): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2469): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2469): warning C4018: <: несоответствие типов со знаком и без знака
-     1>TargetMDlg.cpp(2481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2473): warning C4018: <: несоответствие типов со знаком и без знака
+     1>TargetMDlg.cpp(2485): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2490): warning C4018: <: несоответствие типов со знаком и без знака
-     1>TargetMDlg.cpp(2500): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2494): warning C4018: <: несоответствие типов со знаком и без знака
+     1>TargetMDlg.cpp(2504): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2506): warning C4018: <: несоответствие типов со знаком и без знака
-     1>TargetMDlg.cpp(2512): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2510): warning C4018: <: несоответствие типов со знаком и без знака
+     1>TargetMDlg.cpp(2516): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2518): warning C4018: <: несоответствие типов со знаком и без знака
-     1>TargetMDlg.cpp(2560): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2522): warning C4018: <: несоответствие типов со знаком и без знака
+     1>TargetMDlg.cpp(2564): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2568): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2572): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2580): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2584): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2585): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2589): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2597): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>TargetMDlg.cpp(2601): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
-     1>TargetMDlg.cpp(2334): warning C4101: tpar: неиспользованная локальная переменная
+     1>TargetMDlg.cpp(2338): warning C4101: tpar: неиспользованная локальная переменная
+         TargetV.cpp
+     1>TargetV.cpp(43): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_area" использован в полном имени
+     1>TargetV.cpp(81): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_area" использован в полном имени
+     1>TargetV.cpp(332): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(349): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(371): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(373): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(387): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(389): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(397): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(399): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(410): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(412): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(418): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(420): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(429): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_cmd" использован в полном имени
+     1>TargetV.cpp(438): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(492): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(497): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(626): warning C4482: использовано нестандартное расширение: перечислитель "TargetM_state" использован в полном имени
+     1>TargetV.cpp(1089): warning C4244: =: преобразование "double" в "DWORD", возможна потеря данных
+     1>TargetV.cpp(1094): warning C4244: =: преобразование "double" в "DWORD", возможна потеря данных
+     1>TargetV.cpp(1099): warning C4244: =: преобразование "double" в "DWORD", возможна потеря данных
+     1>TargetV.cpp(1104): warning C4244: =: преобразование "double" в "DWORD", возможна потеря данных
+     1>TargetV.cpp(2436): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+     1>TargetV.cpp(2437): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+         TestParDlg.cpp
+         xShadeButton.cpp
+     1>xShadeButton.cpp(812): warning C4244: =: преобразование "long" в "BYTE", возможна потеря данных
+     1>xShadeButton.cpp(813): warning C4244: =: преобразование "long" в "BYTE", возможна потеря данных
        ResourceCompile:
-         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0419" /IRelease\ /nologo /fo"Release\TargetM.res" TargetM.rc 
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\TargetM.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.lib" /MACHINE:X86 Release\TargetM.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\TargetM.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.lib" /MACHINE:X86 Release\TargetM.res
          Release\DlgProxy.obj
+         Release\FlashScreenDlg.obj
          Release\Graph.obj
          Release\IniFileManager.obj
          Release\Line.obj
@@ -98,19 +189,19 @@
          Release\TestParDlg.obj
          Release\xShadeButton.obj
          Создание кода
-     1>e:\imsk\msvisualc++\targetm\vs2010\targetm\targetm\myedit.cpp(82): warning C4715: CMyEdit::PreCreateWindow: значение возвращается не при всех путях выполнения
-     1>e:\imsk\msvisualc++\targetm\vs2010\targetm\targetm\targetv.cpp(219): warning C4715: CTargetM::CMD_create: значение возвращается не при всех путях выполнения
+     1>e:\imsk\prj msvisualc++\targetm\targetm\myedit.cpp(82): warning C4715: CMyEdit::PreCreateWindow: значение возвращается не при всех путях выполнения
+     1>e:\imsk\prj msvisualc++\targetm\targetm\targetv.cpp(219): warning C4715: CTargetM::CMD_create: значение возвращается не при всех путях выполнения
          Создание кода завершено
-         TargetM.vcxproj -> E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.exe
+         TargetM.vcxproj -> E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.exe;#1" /manifest Release\TargetM.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.exe;#1" /manifest Release\TargetM.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
        RegisterOutput:
-         "E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\Release\TargetM.exe" /RegServer
+         "E:\IMSK\prj MSVisualC++\TargetM\Release\TargetM.exe" /RegServer
        FinalizeBuildStatus:
          Файл "Release\TargetM.unsuccessfulbuild" удаляется.
          Обращение к "Release\TargetM.lastbuildstate".
-     1>Построение проекта "E:\IMSK\MSVisualC++\TargetM\VS2010\TargetM\TargetM\TargetM.vcxproj" завершено (целевые объекты build).
+     1>Построение проекта "E:\IMSK\prj MSVisualC++\TargetM\TargetM\TargetM.vcxproj" завершено (целевые объекты rebuild).
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:03.01
+Затраченное время: 00:00:07.17

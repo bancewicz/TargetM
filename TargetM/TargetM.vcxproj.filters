@@ -23,6 +23,9 @@
     <None Include="res\TargetM.ico">
       <Filter>Файлы ресурсов</Filter>
     </None>
+    <None Include="..\!NON_PRJ_FILES\Bitmap\fscreen.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TargetM.h">
@@ -79,6 +82,9 @@
     <ClInclude Include="Line.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
+    <ClInclude Include="FlashScreenDlg.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TargetM.cpp">
@@ -127,6 +133,9 @@
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
     <ClCompile Include="Line.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="FlashScreenDlg.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
   </ItemGroup>

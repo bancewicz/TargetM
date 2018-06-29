@@ -102,6 +102,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\!NON_PRJ_FILES\Bitmap\fscreen.bmp" />
     <None Include="ReadMe.txt" />
     <None Include="res\TargetM.ico" />
     <None Include="res\TargetM.rc2" />
@@ -109,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DlgProxy.h" />
+    <ClInclude Include="FlashScreenDlg.h" />
     <ClInclude Include="Graph.h" />
     <ClInclude Include="IniFileManager\IniFileManager.h" />
     <ClInclude Include="Line.h" />
@@ -129,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DlgProxy.cpp" />
+    <ClCompile Include="FlashScreenDlg.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="IniFileManager\IniFileManager.cpp" />
     <ClCompile Include="Line.cpp" />

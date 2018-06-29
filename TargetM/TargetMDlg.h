@@ -15,6 +15,7 @@
 
 #include "graph.h"
 #include "IniFileManager.h"
+#include "FlashScreenDlg.h"
 
 class CTargetMDlgAutoProxy;
 
